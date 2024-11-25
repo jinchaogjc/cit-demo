@@ -12,6 +12,8 @@ Class-incremental semantic segmentation (CSS) requires that a model learn to seg
 
 ![teaser|left|300](pic/teaser.jpg)
 
+![[pic/teaser.jpg]]
+
 ![framework](pic/framework.jpg)
 
 ## Citation
