@@ -1,6 +1,6 @@
 # CIT: Rethinking Class-incremental Semantic Segmentation with a Class Independent Transformation
 
-[Jinchao Ge](https://github.com/jinchaogjc),[Bowen Zhang](https://www.linkedin.com/in/bowen-zhang-a7403095/), [Akide Liu](https://www.linkedin.com/in/akideliu/), [Minh Hieu Phan](https://scholar.google.com/citations?user=gSEw8EsAAAAJ&hl=en), [Qi Chen], [Yangyang Shu] [Yang Zhao](https://yangyangkiki.github.io/)*
+[Jinchao Ge](https://github.com/jinchaogjc),[Bowen Zhang](https://www.linkedin.com/in/bowen-zhang-a7403095/), [Akide Liu](https://www.linkedin.com/in/akideliu/), [Minh Hieu Phan](https://scholar.google.com/citations?user=gSEw8EsAAAAJ&hl=en), [Qi Chen](https://chenqi008.github.io/), [Yangyang Shu](https://ganperf.github.io/yangyangshu.github.io/) [Yang Zhao](https://yangyangkiki.github.io/)*
 
 *Corresponding author: y.zhao2@latrobe.edu.au 
 
