@@ -23,10 +23,12 @@ Class-incremental semantic segmentation (CSS) requires that a model learn to seg
 
 For academic use, please cite:
 ```
-@article{ge2024cit,
-  title={CIT: Rethinking Class-incremental Semantic Segmentation with a Class Independent Transformation},
-  author={Ge, Jinchao and Zhang, Bowen and Liu, Akide and Phan, Minh Hieu and Chen, Qi and Shu, Yangyang and Zhao, Yang},
-  journal={arXiv preprint arXiv:2411.02715},
-  year={2024}
+@article{ge2025cit,
+  title={CIT: Rethinking class-incremental semantic segmentation with a Class Independent Transformation},
+  author={Ge, Jinchao and Zhang, Bowen and Liu, Akide and Phan, Vu Minh Hieu and Chen, Qi and Shu, Yangyang and Zhao, Yang},
+  journal={Pattern Recognition},
+  pages={111707},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
